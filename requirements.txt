@@ -1,0 +1,15 @@
+# pip install -r requirements.txt
+# Declarar variable con la ubicación del archivo
+# set FLASK_APP=app.py
+# flask run
+
+Flask
+Flask-SQLAlchemy
+flask-restful
+psycopg2
+SQLAlchemy
+flask-marshmallow
+marshmallow
+marshmallow-sqlalchemy
+flask-cors
+gunicorn
